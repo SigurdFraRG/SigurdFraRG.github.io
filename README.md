@@ -4,4 +4,4 @@ Website i made trying to learn coding. HEHEHEHA
 
 ## Projects
 
-- [My website](hjemmeside/)
+- [My website](hjemmeside/index.html)
